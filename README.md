@@ -3,16 +3,17 @@
 This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service Web.
 
 # ENV EXAMPLE
-CONNECTION_STRING=
-AccountName=
-AccountKey=
-CONTAINER_NAME=
-ACCOUNT_NAME=
 
-POSTGRES_HOST=
-POSTGRES_DB_NAME=
-POSTGRES_USER=
-POSTGRES_PASSWORD=
+- CONNECTION_STRING=
+- AccountName=
+- AccountKey=
+- CONTAINER_NAME=
+- ACCOUNT_NAME=
+
+- POSTGRES_HOST=
+- POSTGRES_DB_NAME=
+- POSTGRES_USER=
+- POSTGRES_PASSWORD=
 
 # Api URLS
 ## Ver datos guardados en azure postgres DataBase service
