@@ -16,20 +16,22 @@ POSTGRES_PASSWORD=
 
 # Api URLS
 ## Ver datos guardados en azure postgres DataBase service
-/inventario
-/productos
-/sucursales
-/clientes
+
++ /inventario
++ /productos
++ /sucursales
++ /clientes
 
 ## Descragar csv de azure data lake
-/guardar/csv/inventario
-/guardar/csv/productos
-/guardar/csv/sucursales
-/guardar/csv/clientes
+
++ /guardar/csv/inventario
++ /guardar/csv/productos
++ /guardar/csv/sucursales
++ /guardar/csv/clientes
 
 ## Insertar datos en azure postgres DataBase service
 
-/inventario/insertar
-/productos/insertar
-/sucursales/insertar
-/clientes/insertar
++ /inventario/insertar
++ /productos/insertar
++ /sucursales/insertar
++ /clientes/insertar
